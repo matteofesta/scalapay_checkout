@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/scalapay_checkout.iml" filepath="$PROJECT_DIR$/scalapay_checkout.iml" />
+      <module fileurl="file://$PROJECT_DIR$/android/scalapay_checkout_android.iml" filepath="$PROJECT_DIR$/android/scalapay_checkout_android.iml" />
+    </modules>
+  </component>
+</project>
